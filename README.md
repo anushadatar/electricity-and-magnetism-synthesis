@@ -12,3 +12,4 @@ Ideas of things to add/check:
 - Main concept maps
 - Electric dipole torque
 - Pick an image type
+- waves my dude
