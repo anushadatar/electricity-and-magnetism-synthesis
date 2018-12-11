@@ -4,14 +4,9 @@ Olin College Electricity and Magnetism FA 2018 Final Synthesis activity : E &amp
 Organized on Github to consolidate and version control sub-maps, images, and final product.
 
 ## Links to Concept Maps
-*[Complete Concept Map](https://anushadatar.github.io/electricity-and-magnetism-synthesis/complete-map.html)
-
-*[Electrostatics](https://anushadatar.github.io/electricity-and-magnetism-synthesis/maps/Electrostatics.html)
-
-*[Electric Fields in Matter](https://github.com/anushadatar/electricity-and-magnetism-synthesis/blob/master/maps/EM_Matter.html)
-
-*[Magnetostatics](https://anushadatar.github.io/electricity-and-magnetism-synthesis/maps/Magnetostatics.html)
-
-*[Magnetic Fields in Matter](https://anushadatar.github.io/electricity-and-magnetism-synthesis/maps/MagneticFieldsinMatter.html)
-
-*[Electromagnetic Waves](https://anushadatar.github.io/electricity-and-magnetism-synthesis/maps/EM_Matter.html)
+* [Complete Concept Map](https://anushadatar.github.io/electricity-and-magnetism-synthesis/complete-map.html)
+* [Electrostatics](https://anushadatar.github.io/electricity-and-magnetism-synthesis/maps/Electrostatics.html)
+* [Electric Fields in Matter](https://github.com/anushadatar/electricity-and-magnetism-synthesis/blob/master/maps/EM_Matter.html)
+* [Magnetostatics](https://anushadatar.github.io/electricity-and-magnetism-synthesis/maps/Magnetostatics.html)
+* [Magnetic Fields in Matter](https://anushadatar.github.io/electricity-and-magnetism-synthesis/maps/MagneticFieldsinMatter.html)
+* [Electromagnetic Waves](https://anushadatar.github.io/electricity-and-magnetism-synthesis/maps/EM_Matter.html)
